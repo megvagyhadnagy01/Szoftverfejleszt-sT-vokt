@@ -1,0 +1,15 @@
+jaxb-example
+Example project to demonstrate the use of JAXB in Java.
+
+JAXB Links
+Jakarta XML Binding
+JAXB RI
+Specifications:
+JSR 222: Java Architecture for XML Binding (JAXB) 2.3
+Jakarta XML Binding Specification 2.3
+Javadoc:
+Package javax.xml.bind
+Package javax.xml.bind.annotation
+Package javax.xml.bind.annotation.adapters
+Tutorials:
+The Java Tutorials: Trail: Java Architecture for XML Binding
