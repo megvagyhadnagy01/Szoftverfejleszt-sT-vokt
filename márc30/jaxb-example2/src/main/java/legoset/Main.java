@@ -1,6 +1,7 @@
 package legoset;
 
 import jaxb.JAXBHelper;
+import movie.Movie;
 
 import java.io.*;
 import java.time.Year;
@@ -30,5 +31,7 @@ public class Main {
         legoSet.setMinifigs(minifigs);
 
         JAXBHelper.toXML(legoSet, System.out);
+        JAXBHelper.toXML(legoSet, new FileOutputStream("legoset.xml"));
+        System.out.println(JAXBHelper.fromXML(LegoSet.class, new FileInputStream("legoset.xml")));
     }
 }

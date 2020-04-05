@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb326cb-5330-46bd-840e-de41559b21da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/legoset/YearAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/legoset/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/legoset/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -142,7 +143,7 @@
       <updated>1585747471050</updated>
       <workItem from="1585747474394" duration="643000" />
       <workItem from="1586035313728" duration="281000" />
-      <workItem from="1586099789869" duration="4318000" />
+      <workItem from="1586099789869" duration="7392000" />
     </task>
     <task id="LOCAL-00001" summary="Kész.">
       <created>1586100181722</created>
@@ -151,7 +152,28 @@
       <option name="project" value="LOCAL" />
       <updated>1586100181722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Yearudapter update">
+      <created>1586104408610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586104408610</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Yearudapter update">
+      <created>1586104503642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586104503642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Yearudapter update">
+      <created>1586104606285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586104606286</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,44 +181,45 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kész." />
-    <option name="LAST_COMMIT_MESSAGE" value="Kész." />
+    <MESSAGE value="Yearudapter update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yearudapter update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="178" key="#Main_(1)" timestamp="1586035357692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="677" y="178" key="#Main_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1586035357692" />
-    <state x="365" y="112" key="CommitChangelistDialog2" timestamp="1586104502641">
+    <state x="365" y="112" key="CommitChangelistDialog2" timestamp="1586104605411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="365" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586104502641" />
+    <state x="365" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586104605411" />
     <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1586035538956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586035538956" />
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1586104345567">
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1586122146030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586104345567" />
-    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1586104345567">
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586122146030" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1586122146030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586104345567" />
-    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1586104345567">
+    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586122146030" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1586122146030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586104345567" />
-    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1586104345567">
+    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586122146030" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1586122146030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586104345567" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586122146030" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1585747791672">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585747791672" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586100183934">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586104609334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586100183934" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586104609334" />
   </component>
 </project>
