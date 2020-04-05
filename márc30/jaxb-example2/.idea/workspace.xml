@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcb326cb-5330-46bd-840e-de41559b21da" name="Default Changelist" comment="" />
+    <list default="true" id="fcb326cb-5330-46bd-840e-de41559b21da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/márc30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jaxb-example2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/legoset/LegoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/legoset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/legoset/Minifig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/legoset/Weight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +21,16 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,6 +43,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZwQ2phRNZKsXbIZhSw37C0mILM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,9 +51,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/movie" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -44,13 +68,26 @@
       <recent name="C:\Users\kissm\Git\Szoftverfejleszt-s2020\márc30\jaxb-example2\src\main\java\album" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="album.Main" />
       <module name="jaxb2-example" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="album.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="legoset.Main" />
+      <module name="jaxb-example2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="legoset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -101,6 +139,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585747471050</updated>
       <workItem from="1585747474394" duration="643000" />
+      <workItem from="1586035313728" duration="281000" />
+      <workItem from="1586099789869" duration="296000" />
     </task>
     <servers />
   </component>
@@ -108,22 +148,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585747927613">
+    <state x="677" y="178" key="#Main_(1)" timestamp="1586035357692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585747927613" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585747927613">
+    <state x="677" y="178" key="#Main_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1586035357692" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1586035538956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585747927613" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585747927612">
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586035538956" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586035378682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585747927612" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585747927613">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586035378682" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586035378682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585747927613" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586035378682" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586035378681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586035378681" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586035378682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586035378682" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1585747791672">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
