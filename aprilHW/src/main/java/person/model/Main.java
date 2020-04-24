@@ -25,6 +25,7 @@ public class Main {
                 .state(Faker.instance().address().state())
                 .zip(Faker.instance().address().zipCode())
                 .build();
+
         Person person = Person.builder()
                 .address(address)
                 .dob(Faker.instance().date().birthday().toInstant().atZone(ZoneId.systemDefault()).toLocalDate())
